@@ -82,7 +82,7 @@ function App() {
 
   return (
     <div>
-    <h2 className="w-screen bg-cyan-500 flex justify-center align-center text-[20px]">Prova - TEMA 2 RECEITA e INGREDIENTES</h2>
+    <h2 className="w-screen bg-cyan-500 flex justify-center align-center text-[20px] text-white">Prova  (TEMA 2) - RECEITA e INGREDIENTES</h2>
       <div className="p-5 flex justify-center align-center gap-5">
         <div className="w-1/2 h-180 overflow-scroll gap 2 ">
           <h2 className="text-xl mb-3 justify-center align-center flex">Recipes</h2>
